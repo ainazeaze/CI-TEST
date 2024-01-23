@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: fil.coo.BankTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in fil.coo.BankTest
+CompteVideTest(fil.coo.BankTest)  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError
+	at fil.coo.BankTest.CompteVideTest(BankTest.java:17)
+
