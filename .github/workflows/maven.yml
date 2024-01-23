@@ -27,6 +27,8 @@ jobs:
         java-version: '17'
         distribution: 'temurin'
         cache: maven
+    - name: Move to TP1
+      run: cd TP1/
     - name: Build with Maven
       run: mvn compile
     - name: Build test
