@@ -14,7 +14,7 @@ public class BankTest {
 
     @Test
     public void CompteVideTest(){
-        assertTrue(this.bankTest.getComptes() ==2);
+        assertTrue(this.bankTest.getComptes() ==0);
     }
 
     @Test
